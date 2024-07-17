@@ -39,7 +39,7 @@ https://youtu.be/ngoAZXk4fdQ
 
 <br>
 
-# 5. 개발 환경
+# 2. 개발 환경
 <span>
  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width=30" /> IDE</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
